@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://rentry.co/vanixqs" />
+  <img src="[GitHub Pages](https://rentry.co/vanixqs)" />
 </p>
