@@ -6,6 +6,5 @@
   <img src="https://komarev.com/ghpvc/?username=vanixqse&color=ff69b4" />
 </p>
 
-<p align="center">
-  <img src="[rentry](https://rentry.co/vanixqs)" />
-</p>
+
+<h1 align="center">Material Bread</h1>
