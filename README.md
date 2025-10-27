@@ -1,7 +1,6 @@
 <p align="center">
-  <img src=" ![image](https://github.com/vanixqs/vanixqs/blob/4e9e6635557b32a7098b67934ef1ae23d577e4c9/tumblr_7008fd12ca76c1f682c10832f4df84b0_f256bee9_400.png" />
+  <img src="https://github.com/vanixqs/vanixqs/blob/73d1f4cd0dd2fe957b0a09548255db3bbcde50f1/tumblr_7008fd12ca76c1f682c10832f4df84b0_f256bee9_400.png" />
 </p>
-
 
 
 
