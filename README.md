@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanixqse&color=ff69b4" />
 </p>
+
+<p align="center">
+  <img src="https://rentry.co/vanixqs" />
+</p>
