@@ -4,4 +4,4 @@
 
 
 
-   [rentry](https://rentry.co/vanixqs)           ⏔⏔⏔               [ata](https://vanixqs.atabook.org/)             ⏔⏔⏔             [pronouns](https://pronouns.cc/@vanixqs)
+  <h1 align="center">[rentry](https://rentry.co/vanixqs)</h1>            ⏔⏔⏔               [ata](https://vanixqs.atabook.org/)             ⏔⏔⏔             [pronouns](https://pronouns.cc/@vanixqs)
