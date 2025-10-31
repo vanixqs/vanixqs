@@ -10,5 +10,5 @@
  [rentry](https://rentry.co/vanixqs)                        [ata](https://vanixqs.atabook.org/)                       [pronouns](https://pronouns.cc/@vanixqs)
 
 
- !(image)[https://github.com/vanixqs/vanixqs/blob/b37d0cb015add307d228482add51f2a56d74d56a/tumblr_d560396686ec3dbc5f03f9a92925c057_88fb008f_2048.png]
+ ![image](https://github.com/vanixqs/vanixqs/blob/b37d0cb015add307d228482add51f2a56d74d56a/tumblr_d560396686ec3dbc5f03f9a92925c057_88fb008f_2048.png)
 
